@@ -1,1 +1,1 @@
-print("Hangman game")
+print("Welcome to Hangman game")
