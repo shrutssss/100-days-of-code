@@ -28,7 +28,7 @@ We import these using:
 import random
 import hangman_words
 import hangman_art
-
+```
 ## 💡 Concepts I Learned
 
 📦 Python Basics
